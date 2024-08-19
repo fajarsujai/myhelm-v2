@@ -9,7 +9,7 @@ entries:
     name: myhelm-v2
     type: application
     urls:
-    - docs/myhelm-v2-0.1.1.tgz
+    - myhelm-v2-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
@@ -19,6 +19,6 @@ entries:
     name: myhelm-v2
     type: application
     urls:
-    - docs/myhelm-v2-0.1.0.tgz
+    - myhelm-v2-0.1.0.tgz
     version: 0.1.0
 generated: "2024-08-19T10:58:15.870054737+07:00"
