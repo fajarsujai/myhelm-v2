@@ -3,28 +3,28 @@ entries:
   myhelm-apigw:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-19T10:14:34.701947461+07:00"
+    created: "2024-08-19T10:58:15.87074467+07:00"
     description: A Helm chart for Kubernetes
     digest: c5b1ea3a09129a609072ae93db4bfbd67c3505fa02b9bdc0c26bd69f524197af
     name: myhelm-apigw
     type: application
     urls:
-    - https://fajarsujai.github.io/myhelm-v2/myhelm-apigw-0.1.0.tgz
+    - docs/myhelm-apigw-0.1.0.tgz
     version: 0.1.0
   myhelm-v2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-19T09:33:53.477022277+07:00"
+    created: "2024-08-19T10:58:15.871872813+07:00"
     description: A Helm chart for Kubernetes
     digest: 177f00afd2a27204aab61c079168dcf1454c39feb6aa8c61a477d7d04264be64
     name: myhelm-v2
     type: application
     urls:
-    - myhelm-v2-0.1.1.tgz
+    - docs/myhelm-v2-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-19T09:33:53.477788577+07:00"
+    created: "2024-08-19T10:58:15.871204372+07:00"
     description: A Helm chart for Kubernetes
     digest: 948010533adb7cf0467b1f063b869ba796f624da0b602ec8b9d4db59245f8f0b
     name: myhelm-v2
@@ -32,4 +32,4 @@ entries:
     urls:
     - docs/myhelm-v2-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-19T09:33:53.475873129+07:00"
+generated: "2024-08-19T10:58:15.870054737+07:00"
